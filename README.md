@@ -1,6 +1,6 @@
 # Logo-Generator
 ![Github license](https://shields.io/badge/license-MIT-orange)
-https://watch.screencastify.com/v/a9Yn3ljsL6061JtRexpp
+https://drive.google.com/file/d/15MuPqBEhd8nks3nwPdIg3-UCHX_GEXxN/view
 
 ![alt text](./images/Final%20result%20.png)
 
@@ -34,6 +34,7 @@ This can be used to Create basic logos
 https://www.w3schools.com/js/js_arrow_function.asp
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts
+https://jestjs.io/docs/getting-started
 Re-watching class work videos over and over
 
 ##Tests
