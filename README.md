@@ -1,5 +1,6 @@
 # Logo-Generator
 ![Github license](https://shields.io/badge/license-MIT-orange)
+https://watch.screencastify.com/v/a9Yn3ljsL6061JtRexpp
 
 ![alt text](./images/Final%20result%20.png)
 
